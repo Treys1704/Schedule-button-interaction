@@ -64,7 +64,7 @@ export default function App() {
                 <div className={styles.box}>
                     <div className="p-2">
                         <textarea
-                            placeholder="What's happening?"
+                            placeholder="What's up?"
                             className={styles.textarea}
                         />
                     </div>
